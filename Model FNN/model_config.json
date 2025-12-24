@@ -1,0 +1,21 @@
+{
+    "features": [
+        "duration_ms",
+        "explicit",
+        "danceability",
+        "energy",
+        "key",
+        "loudness",
+        "mode",
+        "speechiness",
+        "acousticness",
+        "instrumentalness",
+        "liveness",
+        "valence",
+        "tempo",
+        "time_signature"
+    ],
+    "threshold": 0.29,
+    "model_type": "Feedforward Neural Network",
+    "task": "Binary Classification (Popularity)"
+}

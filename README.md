@@ -107,8 +107,3 @@ pdm install
 ##▶️ Menjalankan Dashboard Streamlit
 Pastikan file model hasil training (.pt) berada di folder artifacts/, kemudian jalankan:
 pdm run streamlit run src/app.py
-
-##🧾 Catatan Akhir
-Proyek ini menunjukkan bahwa kombinasi analisis tren musik dan pemodelan deep learning berbasis data tabular mampu memberikan pemahaman yang lebih baik terhadap popularitas musik di Spotify. Dashboard yang dibangun dapat digunakan sebagai alat eksplorasi dan simulasi prediksi popularitas lagu secara interaktif.
-
----

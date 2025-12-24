@@ -1,7 +1,7 @@
 # 🎵 Analisis Tren Musik Populer di spotify berdasarkan Pola popularity
 
 ## 📌 Deskripsi Proyek
-Proyek ini bertujuan untuk melakukan **analisis tren musik populer di Spotify** serta membangun **sistem prediksi popularitas lagu** menggunakan pendekatan *machine learning* dan *deep learning*.
+Proyek ini bertujuan untuk melakukan **analisis tren musik populer di Spotify** serta membangun **sistem prediksi popularitas lagu** menggunakan pendekatan *deep learning* dan *Transfer Learning*.
 
 Popularitas lagu pada platform streaming tidak hanya dipengaruhi oleh karakteristik audio, tetapi juga oleh metadata lagu. Oleh karena itu, proyek ini mengombinasikan **analisis data eksploratif (EDA)** dan **pemodelan prediktif** untuk memahami pola tren musik serta memprediksi tingkat popularitas lagu berdasarkan fitur-fitur yang tersedia.
 
